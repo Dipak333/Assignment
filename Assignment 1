@@ -61,8 +61,3 @@ Verify order details (items, quantity, price, etc.).
 Check current status (processing, shipped, delivered).
 Verify shipment details (tracking number, estimated delivery date).
 Optionally, click on the tracking number for detailed shipment tracking information.
-Key Considerations:
-Realistic Scenarios: End-to-end scenarios should reflect actual user journeys and use cases.
-Validation Points: Each scenario should have clear validation points to verify the expected outcome.
-Edge Cases: Consider including edge cases and error handling scenarios to ensure robustness.
-Data Integrity: Ensure data consistency and integrity throughout the scenarios.
