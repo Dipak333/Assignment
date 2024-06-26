@@ -1,0 +1,68 @@
+1. User Registration and Login:
+
+Scenario: A new user registers on the website and then logs in.
+Steps:
+Navigate to the registration page.
+Enter valid registration details (name, email, password, etc.).
+Submit the registration form.
+Verify successful registration message or confirmation email.
+Navigate to the login page.
+Enter registered credentials.
+Click the login button.
+Verify successful login and user dashboard.
+
+2. Product Search and Purchase:
+
+Scenario: A user searches for a product, adds it to the cart, and completes the purchase.
+Steps:
+Login to the website (if not already logged in).
+Search for a specific product using the search bar.
+Click on the desired product from the search results.
+Verify product details on the product page.
+Add the product to the shopping cart.
+Proceed to checkout.
+Enter shipping and payment details.
+Confirm the purchase.
+Verify order confirmation message and details.
+
+3. Account Settings Update:
+
+Scenario: A user updates their account settings (e.g., change password, update personal information).
+Steps:
+Login to the user account.
+Navigate to the account settings or profile page.
+Update personal information (e.g., change password, update email address).
+Save the changes.
+Verify success message or confirmation of changes.
+Log out and log back in to verify updated information.
+
+4. Password Recovery:
+
+Scenario: A user forgets their password and initiates a password recovery process.
+Steps:
+Attempt to login with an incorrect password.
+Click on the "Forgot Password?" link.
+Enter the registered email address for password recovery.
+Submit the password recovery request.
+Check email for password reset link.
+Click on the password reset link.
+Enter and confirm a new password.
+Submit the new password.
+Verify success message and login with the new password.
+
+5. Order Tracking:
+
+Scenario: A user tracks an order placed earlier to check its status and shipment details.
+Steps:
+Login to the user account.
+Navigate to the order history or tracking page.
+Select the specific order to track.
+Verify order details (items, quantity, price, etc.).
+Check current status (processing, shipped, delivered).
+Verify shipment details (tracking number, estimated delivery date).
+Optionally, click on the tracking number for detailed shipment tracking information.
+Key Considerations:
+Realistic Scenarios: End-to-end scenarios should reflect actual user journeys and use cases.
+Validation Points: Each scenario should have clear validation points to verify the expected outcome.
+Edge Cases: Consider including edge cases and error handling scenarios to ensure robustness.
+Data Integrity: Ensure data consistency and integrity throughout the scenarios.
